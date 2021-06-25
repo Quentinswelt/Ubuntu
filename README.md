@@ -1,2 +1,2 @@
 # Ubuntu
-Ubuntu alternative
+Windows Alternative
